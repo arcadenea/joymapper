@@ -201,6 +201,8 @@ void initButtonMap()
 		buttonmap[1][13]=KEY_6;//button10
 		buttonmap[1][14]=KEY_2;//button11*/
 
+	fclose(fconfig);
+
 }
 
 
